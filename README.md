@@ -1,2 +1,2 @@
 # Android-DebugApp
-Nazdar HONZO!
+Nazdar ONDRO!
